@@ -157,7 +157,7 @@
       "eu-central-1"     : {"PV64" : "ami-6527cf0a", "HVM64" : "ami-ea26ce85", "HVMG2" : "ami-40b8102f"},
       "ap-northeast-1"   : {"PV64" : "ami-3e42b65f", "HVM64" : "ami-374db956", "HVMG2" : "ami-d95aabbf"},
       "ap-northeast-2"   : {"PV64" : "NOT_SUPPORTED","HVM64" : "ami-2b408b45", "HVMG2" : "NOT_SUPPORTED"},
-      "ap-southeast-1"   : {"PV64" : "ami-df9e4cbc", "HVM64" : "ami-8c1be5f6", "HVMG2" : "ami-15660276"},
+      "ap-southeast-1"   : {"PV64" : "ami-df9e4cbc", "HVM64" : "ami-0797ea64", "HVMG2" : "ami-15660276"},
       "ap-southeast-2"   : {"PV64" : "ami-63351d00", "HVM64" : "ami-dc361ebf", "HVMG2" : "ami-0b5a4168"},
       "ap-south-1"       : {"PV64" : "NOT_SUPPORTED","HVM64" : "ami-ffbdd790", "HVMG2" : "ami-f4cdb79b"},
       "us-east-2"        : {"PV64" : "NOT_SUPPORTED","HVM64" : "ami-f6035893", "HVMG2" : "NOT_SUPPORTED"},
